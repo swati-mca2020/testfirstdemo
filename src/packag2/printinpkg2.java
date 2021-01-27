@@ -6,4 +6,9 @@ public class printinpkg2 {
     {
         System.out.println("this is print of package2");
     }
+
+    public void print2inpkg2()
+    {
+        System.out.println("added another method");
+    }
 }
